@@ -30,7 +30,10 @@ class Scraper
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6376ebf46161b8cf4a56999c7658c9da9de603da
   # get all links: links = profile_url.css(".vitals-container .social-icon-container a")
   # get twitter-url: links[0]['href']
   # get linkedin-url: links[1]['href']
